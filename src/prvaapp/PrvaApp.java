@@ -16,6 +16,7 @@ public class PrvaApp {
      */
     public static void main(String[] args) {
         System.out.println("Ahoj Katka :)");
+        System.out.println("testík");
     }
         
         
